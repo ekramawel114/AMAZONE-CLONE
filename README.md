@@ -1,1 +1,6 @@
 # AMAZONE-CLONE
+
+
+
+
+ Some Description.
